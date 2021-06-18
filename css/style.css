@@ -855,18 +855,22 @@ ul.soc-menu li {
     }
             
 .soc-menu li a.red{
+    display: inline-block;
     margin: 15px 30px 0px 30px;
 }
    
 .soc-menu li a.green{
+    display: inline-block;
     margin: 0px 20px 0px 10px;
 }
 
 .soc-menu li a.blue{
+    display: inline-block;
     margin: 0px 10px 0px 20px;
 }
 
 .soc-menu li a.orange{
+    display: inline-block;
     margin: 0px 30px 15px 30px;
 }
         
